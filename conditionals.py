@@ -9,8 +9,5 @@ if (temperature <= 4):
 elif (temperature < 100):
 	print("water is a liquid")
 
-elif (temperature < 120):
-	print(Number is invalid)
 else:
 	print("Water is a vapor")
-time.sleep(3)
