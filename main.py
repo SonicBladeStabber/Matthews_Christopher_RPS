@@ -25,6 +25,7 @@ while gameVars.player is False:
 	
 
 	print("player lives: " + str(gameVars.playerLives))
+	print("------------------------------------------------")
 	print("computer lives: " + str(gameVars.computerLives))
 
 
@@ -39,4 +40,4 @@ while gameVars.player is False:
 
 	time.sleep(1)
 
-	print("------------------------------------------------------------------")
+	print("====================================================")
