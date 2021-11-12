@@ -4,7 +4,9 @@ weapon = ["rock", "paper", "scissors"]
 #----------------------------------------
 # player defines which choise the player chooses via input
 
-player= False
+CPU = "temp"
+
+player = False
 
 time.sleep(0.5)
 
