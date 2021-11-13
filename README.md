@@ -4,10 +4,10 @@ Pick your weapon and play against the computer - you'll only get a virtual sting
 
 ### Prerequisites
 
-All you need is Python 3 to play.
+All you need is [Python 3](https://www.python.org/downloads/) to play.
 
 ### Usage
-Clone the project, <code>cd</code> to your directory/download, and run the game.py file in a Python 3 shell (Terminal on a mac / Linux, Windows command prompt).
+Clone the project, <code>cd</code> to your directory/download, and run the game.py file in a [Python 3](https://www.python.org/downloads/) shell (Terminal on a mac / Linux, Windows command prompt).
 
 ### Rules
 Same as the classic game:
